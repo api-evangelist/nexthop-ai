@@ -1,8 +1,27 @@
 aid: nexthop-ai
 name: Nexthop AI
-description: 'Nexthop AI is a company surfaced as a portfolio company of kleiner-perkins and added to
-  the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the
-  enrichment pipeline.'
+description: 'Nexthop AI is a networking infrastructure company building next-generation,
+  highly efficient AI and cloud networking for hyperscalers and neo-cloud operators.
+  Founded by former Arista Networks operations leader Anshul Sadana, it designs scale-out
+  and scale-across Ethernet switches, a networking software portfolio, and optics and
+  cables engineered to lower the cost per token of large GPU clusters by improving power
+  efficiency, cost, reliability, and speed of deployment. The company raised a $500M
+  Series B led by Lightspeed Venture Partners and Andreessen Horowitz at a $4.2B valuation
+  and is tracked in the API Evangelist network as a Kleiner Perkins portfolio lead. It
+  publishes no public web/REST API surface; this profile captures company identity and
+  domain security posture.'
+accessModel:
+  pricing: unknown
+  onboarding: unknown
+  trial: false
+  try_now: false
+  public: false
+  label: Unknown
+  confidence: low
+  source: []
+  generated: '2026-07-22'
+  method: derived
+image: https://nexthop.ai/wp-content/uploads/2025/02/logo-color.svg
 url: https://raw.githubusercontent.com/api-evangelist/nexthop-ai/refs/heads/main/apis.yml
 x-type: company
 x-source: kleiner-perkins-portfolio
@@ -10,13 +29,49 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-17'
+modified: '2026-07-20'
 tags:
 - Company
-- Ai
+- AI
+- Networking
+- Infrastructure
+- Switches
+- Data Center
+- Cloud
+- Ethernet
+- Optics
+- Hardware
 apis: []
+common:
+- type: DomainSecurity
+  url: security/nexthop-ai-domain-security.yml
+- type: Website
+  url: https://nexthop.ai
+- type: About
+  url: https://nexthop.ai/about-us/
+- type: Blog
+  url: https://nexthop.ai/blogs/
+- type: News
+  url: https://nexthop.ai/news-events/
+- type: Support
+  url: https://nexthop.ai/support-hub/
+- type: Documentation
+  url: https://nexthop.ai/learning-hub/
+- type: Login
+  url: https://nexthop.ai/login/
+- type: TermsOfUse
+  url: https://nexthop.ai/website-terms-and-conditions-of-use/
+- type: PrivacyPolicy
+  url: https://nexthop.ai/privacy-policy/
+- type: LinkedIn
+  url: https://www.linkedin.com/company/nexthopai
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
 - FN: APIs.json
   email: info@apis.io
+x-enrichment:
+  date: '2026-07-20'
+  status: minimal
+  artifacts_added: 1
+  pass: local-v1
