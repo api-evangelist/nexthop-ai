@@ -1,15 +1,13 @@
 aid: nexthop-ai
 name: Nexthop AI
-description: 'Nexthop AI is a networking infrastructure company building next-generation,
-  highly efficient AI and cloud networking for hyperscalers and neo-cloud operators.
-  Founded by former Arista Networks operations leader Anshul Sadana, it designs scale-out
-  and scale-across Ethernet switches, a networking software portfolio, and optics and
-  cables engineered to lower the cost per token of large GPU clusters by improving power
-  efficiency, cost, reliability, and speed of deployment. The company raised a $500M
-  Series B led by Lightspeed Venture Partners and Andreessen Horowitz at a $4.2B valuation
-  and is tracked in the API Evangelist network as a Kleiner Perkins portfolio lead. It
-  publishes no public web/REST API surface; this profile captures company identity and
-  domain security posture.'
+description: Nexthop AI is a networking infrastructure company building next-generation, highly efficient
+  AI and cloud networking for hyperscalers and neo-cloud operators. Founded by former Arista Networks
+  operations leader Anshul Sadana, it designs scale-out and scale-across Ethernet switches, a networking
+  software portfolio, and optics and cables engineered to lower the cost per token of large GPU clusters
+  by improving power efficiency, cost, reliability, and speed of deployment. The company raised a $500M
+  Series B led by Lightspeed Venture Partners and Andreessen Horowitz at a $4.2B valuation and is tracked
+  in the API Evangelist network as a Kleiner Perkins portfolio lead. It publishes no public web/REST API
+  surface; this profile captures company identity and domain security posture.
 accessModel:
   pricing: unknown
   onboarding: unknown
@@ -29,7 +27,7 @@ x-tier: stub
 x-tier-reason: portfolio-lead
 specificationVersion: '0.20'
 created: '2026-07-17'
-modified: '2026-07-20'
+modified: '2026-08-08'
 tags:
 - Company
 - AI
@@ -65,6 +63,8 @@ common:
   url: https://nexthop.ai/privacy-policy/
 - type: LinkedIn
   url: https://www.linkedin.com/company/nexthopai
+- type: TermsOfService
+  url: https://nexthop.ai/website-terms-and-conditions-of-use/
 maintainers:
 - FN: Kin Lane
   email: kin@apievangelist.com
@@ -75,3 +75,5 @@ x-enrichment:
   status: minimal
   artifacts_added: 1
   pass: local-v1
+x-merged-from:
+- nexthop
