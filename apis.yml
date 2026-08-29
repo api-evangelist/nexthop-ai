@@ -8,6 +8,17 @@ description: Nexthop AI is a networking infrastructure company building next-gen
   Series B led by Lightspeed Venture Partners and Andreessen Horowitz at a $4.2B valuation and is tracked
   in the API Evangelist network as a Kleiner Perkins portfolio lead. It publishes no public web/REST API
   surface; this profile captures company identity and domain security posture.
+deliveryModel:
+  model: saas
+  open_source: false
+  commercial: true
+  callable_host: false
+  label: Hosted service · you call their endpoint
+  confidence: medium
+  source:
+  - pricing
+  generated: '2026-08-28'
+  method: derived
 accessModel:
   pricing: unknown
   onboarding: unknown
