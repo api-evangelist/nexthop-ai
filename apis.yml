@@ -45,7 +45,7 @@ tags:
 - Networking
 - Infrastructure
 - Switches
-- Data-Center
+- Data Center
 - Cloud
 - Ethernet
 - Optics
@@ -61,6 +61,7 @@ tags_raw:
 - Ethernet
 - Optics
 - Hardware
+- Data-Center
 apis: []
 common:
 - type: DomainSecurity
