@@ -64,6 +64,84 @@
 > Full detail: **[Where this data comes from](https://apievangelist.com/about/where-our-data-comes-from)**
 <!-- API-EVANGELIST-PROVENANCE:END -->
 
-Nexthop AI is a company surfaced as a portfolio company of kleiner-perkins and added to the API Evangelist network as a stub for enrichment. Sector: ai. This profile is a lead awaiting the enrichment pipeline.
+Nexthop AI is a networking infrastructure company building next-generation, highly efficient AI and cloud networking for hyperscalers and neo-cloud operators. Founded by former Arista Networks operations leader Anshul Sadana, it designs scale-out and scale-across Ethernet switches, a networking software portfolio, and optics and cables engineered to lower the cost per token of large GPU clusters by improving power efficiency, cost, reliability, and speed of deployment. The company raised a $500M Series B led by Lightspeed Venture Partners and Andreessen Horowitz at a $4.2B valuation and is tracked in the API Evangelist network as a Kleiner Perkins portfolio lead. It publishes no public web/REST API surface; this profile captures company identity and domain security posture.
 
-Source: portfolio company of [kleiner-perkins](https://github.com/api-evangelist/kleiner-perkins)
+**Areas:** Company · Artificial Intelligence · Networking · Infrastructure · Switches · Data Center · Cloud · Ethernet · Optics · Hardware
+
+## Nexthop AI on APIs.io
+
+Everything profiled for Nexthop AI is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/nexthop-ai/](https://apis.io/providers/nexthop-ai/)** — or go straight to one of the APIs or properties below.
+
+### Published properties
+
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
+
+#### Security (1)
+
+Authentication, trust centre, and vulnerability disclosure.
+
+- [Nexthop Ai Domain Security](https://apis.io/security/nexthop-ai/nexthop-ai-domain-security/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
+- [Website](https://nexthop.ai)
+- [Documentation](https://nexthop.ai/learning-hub/)
+- [Support](https://nexthop.ai/support-hub/)
+- [Blog](https://nexthop.ai/blog/)
+- [Terms of service](https://nexthop.ai/website-terms-and-conditions-of-use/)
+- [Privacy policy](https://nexthop.ai/privacy-policy/)
+
+## API Evangelist rating
+
+**Kin Score 13.4** — emerging · rubric 0.24.0 · scored 2026-10-17
+
+| Facet | Score |
+|---|---|
+| Discoverability | 49.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 0.0 |
+| Developer ergonomics | 16.7 |
+| Access clarity | 27.6 |
+
+**Agent readiness 0.0** — human-only
+
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | — |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | — |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 12.7** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/nexthop-ai/](https://apis.io/providers/nexthop-ai/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Nexthop AI: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/nexthop-ai/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
